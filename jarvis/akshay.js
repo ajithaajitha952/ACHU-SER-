@@ -304,7 +304,7 @@ const tag = (prefix) => {
 `
 }
 
-const owner = (prefix) => {
+
 	
 
 
