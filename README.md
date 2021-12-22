@@ -25,7 +25,7 @@
 > apt update && apt upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/sparroo/jarvisv3
+> git clone https://github.com/ACHUSIR8/ACHU-SIR.git
 > cd jarvis
 > bash install.sh
 > npm start
@@ -50,7 +50,7 @@
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
+* [`WhatsApp Number `](https://wa.me/+918590284271)
 * [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
 
 
