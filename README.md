@@ -1,9 +1,9 @@
 # JARVIS V3
 <p align="center">
-<a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/ᎪᏟᎻႮ ՏᏆᎡ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-°AESTCIY VIBELR_🍃°-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
